@@ -1,0 +1,58 @@
+{
+    "score": 0.91938245,
+    "show": {
+      "id": 28170,
+      "url": "https://www.tvmaze.com/shows/28170/the-sunday-game",
+      "name": "The Sunday Game",
+      "type": "Sports",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 120,
+      "averageRuntime": 89,
+      "premiered": "2017-05-21",
+      "ended": null,
+      "officialSite": "http://www.rte.ie/tv/programmes/the_sunday_game.html",
+      "schedule": {
+        "time": "21:30",
+        "days": [
+          "Sunday"
+        ]
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 17,
+      "network": {
+        "id": 1054,
+        "name": "RTÉ2",
+        "country": {
+          "name": "Ireland",
+          "code": "IE",
+          "timezone": "Europe/Dublin"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": null,
+        "imdb": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/111/279241.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/111/279241.jpg"
+      },
+      "summary": "<p><b>The Sunday Game</b> is presented by Des Cahill with a host of panellists reviewing the action each weekend of the Championship.</p><p>Each Sunday evening throughout the Championship, the programme features highlights of all the other championship matches, analysis and discussion.</p><p>Sunday Game Club Call is a fortnightly item where local clubs will be given the opportunity to have GAA All Star winners and football and hurling legends, Pat Spillane or Ger Loughnane, spend a day in their club to assess their team and whip them into shape by taking over a night's training session.</p>",
+      "updated": 1592928852,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/28170"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/1890932"
+        }
+      }
+    }
+  }
